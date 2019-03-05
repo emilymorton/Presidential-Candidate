@@ -1,0 +1,46 @@
+.header{
+    background-color:#ffa366
+;
+    width:1170px;
+    height:100px;
+    font-size:100px;
+    display:flex;
+}
+.pictures{
+    width:1160px;
+    background-color:#d6d6c2
+;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.queen{
+    width:300px;
+    height:250px;
+}
+.naija{
+    width:300px;
+    height:250px;
+}
+.footer{
+    background-color:#ffa366
+;
+    width:1170px;
+    height:200px;
+    font-size:100px;
+    display:flex;
+    font-size:30pt;
+}
+.donate {
+    background:#ffffcc;
+    height:150px;
+    
+}
+.button{
+    width:200px;
+    height:200px;
+}
+.press{
+    height:50px;
+    width:100px;
+}
